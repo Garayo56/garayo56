@@ -1,5 +1,6 @@
 <h1 align="center">Hola, soy Rocio :blush: </h1>
 
+
 <h2 align="left">Sobre mi :bow:</h2>
 <! -- Intro start -->
 Estoy cursando una carrera de Licenciatura en Gestion de Tecnologías de la Informacion en la UNPAZ
