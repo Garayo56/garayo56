@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Rocio :blush: </h1>
-![](https://github.com/Garayo56/garayo56/blob/main/Imagen%20de%20WhatsApp%202025-03-25%20a%20las%2015.50.53_842301dd.jpg)
+
 
 
 <h2 align="left">Sobre mi :bow:</h2>
