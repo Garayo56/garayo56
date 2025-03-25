@@ -6,7 +6,7 @@
 
 - Tengo 22 años
 - Debes en cuando me gusta Programar y jugar juegos de mesa
-- Estoy cursando la carrera de Licenciatura en Gestión de Tecnologías de la Información en la UNPAZ
+- Estoy cursando la carrera de Licenciatura en Gestión de Tecnologías de la Información (LGTI) en la UNPAZ
   
 ## Lenguajes de Programacio:
 
