@@ -4,7 +4,7 @@
 
 <h2 align="left">Sobre mi :bow:</h2>
 
-- Tengo 22 años
+- Tengo 23 años
 - Debes en cuando me gusta Programar y jugar juegos de mesa
 - Estoy cursando la carrera de Licenciatura en Gestión de Tecnologías de la Información (LGTI) en la UNPAZ
   
